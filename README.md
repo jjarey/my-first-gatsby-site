@@ -42,11 +42,14 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+A quick look at some top-level and nested files and directories you'll see in this Gatsby project.
 
     .
     ├── node_modules
     ├── src
+        ├── components
+        ├── pages
+        ├── styles
     ├── .gitignore
     ├── .prettierrc
     ├── gatsby-browser.js
