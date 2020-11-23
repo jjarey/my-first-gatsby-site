@@ -2,6 +2,11 @@ html {
     background-color: lavenderblush;
   }
 
+body {
+    margin: 20px auto;
+    max-width: 400px;
+}
+
 a {
     margin: 5px;;
 }
